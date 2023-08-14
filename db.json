@@ -1,0 +1,82 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Dursun K\u00f6kt\u00fcrk",
+            "username": "dursunkokturk",
+            "password": "1234",
+            "email": "d@d.com"
+        },
+        {
+            "id": 2,
+            "name": "Hakan Acar",
+            "username": "hakanacar",
+            "password": "123",
+            "email": "h@k.com"
+        },
+        {
+            "id": 1,
+            "name": "Sefa Ak",
+            "username": "sefaak",
+            "password": "12345",
+            "email": "s@s.com"
+        },
+        {
+            "id": 4,
+            "name": "Mehmet Gen\u00e7er",
+            "username": "mehmetgencer",
+            "password": "123",
+            "email": "m@m.com"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Macera"
+        },
+        {
+            "id": 1,
+            "name": "Dram"
+        },
+        {
+            "id": 1,
+            "name": "Komedi"
+        },
+        {
+            "id": 1,
+            "name": "Korku"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "title": "film 1",
+            "description": "film 1 a\u00e7\u0131klama",
+            "url": "film-1",
+            "image-url": "1.jpeg",
+            "likes": 10,
+            "comments": 5,
+            "is-active": true
+        },
+        {
+            "id": 2,
+            "title": "film 2",
+            "description": "film 2 a\u00e7\u0131klama",
+            "url": "film-2",
+            "image-url": "2.jpeg",
+            "likes": 10,
+            "comments": 5,
+            "is-active": true
+        },
+        {
+            "id": 3,
+            "title": "film 3",
+            "description": "film 3 a\u00e7\u0131klama",
+            "url": "film-3",
+            "image-url": "3.jpeg",
+            "likes": 10,
+            "comments": 5,
+            "is-active": false
+        }
+    ]
+}
